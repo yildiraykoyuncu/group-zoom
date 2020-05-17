@@ -2,7 +2,7 @@
 
 This site is for all the world to know us.
 
-- [Yildiray](./yildiraybio.md)
+- [Yildiray](./yildiray.md)
 - Yulia
 - Iryna
 - Eltayeb
