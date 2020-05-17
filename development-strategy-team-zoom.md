@@ -75,9 +75,60 @@ Change this team member's name on the list into a link to their new profile page
 
 ---
 
-... fill out one section for each team member ...
+## 4. User Story: introducing _iryna_
+
+__As a site visitor, I want to learn more about *iryna*__
+
+### Repo
+
+This user story was developed on a brach called `4-iryna`
+
+### iryna.md
+
+Write a markdown bio page for this team member
+
+### README.md
+
+Change this team member's name on the list into a link to their new profile page
 
 ---
+
+## 5. User Story: introducing _eltayeb_
+
+__As a site visitor, I want to learn more about *eltayeb*__
+
+### Repo
+
+This user story was developed on a brach called `5-eltayeb`
+
+### eltayeb.md
+
+Write a markdown bio page for this team member
+
+### README.md
+
+Change this team member's name on the list into a link to their new profile page
+
+---
+
+## 6. User Story: introducing _yauhenia_
+
+__As a site visitor, I want to learn more about *yauhenia*__
+
+### Repo
+
+This user story was developed on a brach called `6-yauhenia`
+
+### yauhenia.md
+
+Write a markdown bio page for this team member
+
+### README.md
+
+Change this team member's name on the list into a link to their new profile page
+
+---
+
 
 ## X. Finishing Touches
 

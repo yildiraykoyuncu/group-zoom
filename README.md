@@ -7,4 +7,3 @@ This site is for all the world to know us.
 - Iryna
 - Eltayeb
 - Yauhenia
-- Louise
