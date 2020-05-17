@@ -6,4 +6,4 @@ This site is for all the world to know us.
 - [Yulia](./yulia.md)
 - [Iryna](./Iryna.md)
 - [Eltayeb](./eltayeb.md)
-- Yauhenia
+- [Yauhenia](./yauhenia.md)
