@@ -4,7 +4,6 @@ This site is for all the world to know us.
 
 - [Yildiray](./yildiray.md)
 - [Yulia](./yulia.md)
-- Iryna
+- [Iryna](./Iryna.md)
 - Eltayeb
 - Yauhenia
-- Louise
