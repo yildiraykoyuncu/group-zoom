@@ -5,5 +5,5 @@ This site is for all the world to know us.
 - [Yildiray](./yildiray.md)
 - [Yulia](./yulia.md)
 - [Iryna](./Iryna.md)
-- Eltayeb
+- [Eltayeb](./eltayeb.md)
 - Yauhenia
