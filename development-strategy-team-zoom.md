@@ -45,7 +45,7 @@ __As a site visitor, I want to learn more about *name*__
 
 ### Repo
 
-This user story was developed on a brach called `2-name`
+This user story was developed on a brach called `2-yildiray`
 
 ### name.md
 
