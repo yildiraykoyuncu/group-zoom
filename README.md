@@ -3,7 +3,7 @@
 This site is for all the world to know us.
 
 - [Yildiray](./yildiray.md)
-- Yulia
+- [Yulia](./yulia.md)
 - Iryna
 - Eltayeb
 - Yauhenia
