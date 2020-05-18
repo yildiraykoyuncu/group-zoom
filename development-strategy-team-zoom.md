@@ -120,7 +120,7 @@ __As a site visitor, I want to learn more about *yauhenia*__
 This user story was developed on a brach called `6-yauhenia`
 
 ### yauhenia.md
-
+gi
 Write a markdown bio page for this team member
 
 ### README.md
@@ -130,6 +130,6 @@ Change this team member's name on the list into a link to their new profile page
 ---
 
 
-## X. Finishing Touches
+## 7. Finishing Touches
 
 __As a perfectionist, I want everything perfect :)__
