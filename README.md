@@ -2,6 +2,10 @@
 
 This site is for all the world to know us.
 
+---
+
+## Members of team Zoom
+
 - [Yildiray](./yildiray.md)
 - [Yulia](./yulia.md)
 - [Iryna](./Iryna.md)
